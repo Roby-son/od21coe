@@ -1,0 +1,28 @@
+*{
+    color:white;
+}
+
+
+body{
+    background-color:bisque;
+    background-image: ("../instagram.jpg");
+    
+}
+
+p{
+    color: green;
+
+}
+
+
+
+.image-emirates{
+    width: 10;
+}
+
+
+.brown{
+    color: red;
+}
+
+
